@@ -1,0 +1,47 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 418
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinella granulosa" ; Times: 4
+	Query: "genus:Hypsiboas specificepithet:pulchellus" ; Times: 1
+	Query: "Physalaemus aguirrei" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:nordestina" ; Times: 1
+	Query: "institutioncode:MBML" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1359 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Eleutherodactylus coqui" ; Times: 1
+
+
+End of report.
