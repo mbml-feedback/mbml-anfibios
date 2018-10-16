@@ -1,0 +1,81 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 1227
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: United States ; Times: 54
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 17
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 19
+	Date: 2018-05-24 ; Times: 16
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Scinax specificepithet:catharinae" ; Times: 1
+	Query: "institutioncode:MBML" ; Times: 2
+	Query: "Dendropsophus bromeliaceus" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus institutioncode:MBML" ; Times: 3
+	Query: "specificepithet:incrassatus genus:Stereocyclops institutioncode:MBML" ; Times: 3
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:MBML" ; Times: 3
+	Query: "specificepithet:boiei genus:Proceratophrys institutioncode:MBML" ; Times: 3
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:MBML" ; Times: 3
+	Query: "genus:Ischnocnema specificepithet:parva" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax institutioncode:MBML" ; Times: 3
+	Query: "specificepithet:guentheri genus:Ischnocnema institutioncode:MBML" ; Times: 3
+	Query: "Dermatonotus muelleri mappable:1" ; Times: 1
+	Query: "Phyllomedusa rohdei mappable:1" ; Times: 1
+	Query: "Scinax catharinae" ; Times: 1
+	Query: "Dendropsophus seniculus" ; Times: 2
+	Query: "Hylodes phyllodes" ; Times: 3
+	Query: "genus:Pleurodema specificepithet:diplolister" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 5
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melanophryniscus moreirae" ; Times: 1
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:MBML" ; Times: 3
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:MBML" ; Times: 3
+	Query: "specificepithet:paradoxa genus:Pseudis institutioncode:MBML" ; Times: 3
+	Query: "Dendropsophus haddadi" ; Times: 5
+	Query: "specificepithet:cuvieri genus:Physalaemus institutioncode:MBML" ; Times: 3
+	Query: "specificepithet:marina genus:Rhinella institutioncode:MBML" ; Times: 3
+	Query: "specificepithet:perviridis genus:Aplastodiscus institutioncode:MBML" ; Times: 4
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "specificepithet:ephippium genus:Brachycephalus institutioncode:MBML" ; Times: 3
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "Siphonops annulatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1178 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
