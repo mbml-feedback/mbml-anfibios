@@ -1,0 +1,106 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 5697
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 114
+	Country: Brazil ; Times: 19
+	Country: Taiwan ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 7
+	Date: 2018-03-19 ; Times: 10
+	Date: 2018-03-07 ; Times: 3
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-08 ; Times: 5
+	Date: 2018-03-02 ; Times: 7
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-05 ; Times: 7
+	Date: 2018-03-28 ; Times: 11
+	Date: 2018-03-29 ; Times: 4
+	Date: 2018-03-26 ; Times: 27
+	Date: 2018-03-27 ; Times: 12
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-23 ; Times: 6
+	Date: 2018-03-20 ; Times: 7
+	Date: 2018-03-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chiasmocleis specificepithet:capixaba" ; Times: 9
+	Query: "genus:Brachycephalus specificepithet:ephippium" ; Times: 9
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 5
+	Query: "genus:Macrogenioglottus specificepithet:alipioi" ; Times: 5
+	Query: "Hypsiboas faber mappable:1" ; Times: 1
+	Query: "genus:Rhinella specificepithet:crucifer" ; Times: 5
+	Query: "genus:Leptodactylus specificepithet:latrans" ; Times: 1
+	Query: "Hypsiboas pardalis mappable:1" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:perviridis" ; Times: 6
+	Query: "(Lithobates catesbeianus)" ; Times: 1
+	Query: "country:&#34;Brasil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 3
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 5
+	Query: "Hypsiboas lundii mappable:1" ; Times: 1
+	Query: "Hypsiboas bischoffi mappable:1" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 5
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 5
+	Query: "genus:Bokermannohyla specificepithet:circumdata" ; Times: 6
+	Query: "rhinella ceratophrys" ; Times: 1
+	Query: "Scinax duartei" ; Times: 1
+	Query: "Hypsiboas albopunctatus mappable:1" ; Times: 1
+	Query: "genus:Crossodactylus specificepithet:gaudichaudii" ; Times: 6
+	Query: "Hypsiboas prasinus mappable:1" ; Times: 1
+	Query: "genus:Corythomantis specificepithet:greeningi" ; Times: 5
+	Query: "Hylodes lateristrigatus" ; Times: 1
+	Query: "Ischnocnema abdita" ; Times: 1
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 9
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "Hypsiboas polytaenius mappable:1" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "Hypsiboas crepitans mappable:1" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "genus:Rhinella specificepithet:schneideri" ; Times: 5
+	Query: "genus:Hypsiboas specificepithet:faber" ; Times: 1
+	Query: "country:&#34;Brasil&#34;" ; Times: 1
+	Query: "genus:Aparasphenodon specificepithet:brunoi" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:lundii" ; Times: 1
+	Query: "genus:Ischnocnema specificepithet:guentheri" ; Times: 5
+	Query: "genus:Thoropa specificepithet:miliaris" ; Times: 5
+	Query: "Hypsiboas semilineatus mappable:1" ; Times: 1
+	Query: "Vitreorana uranoscopa" ; Times: 1
+	Query: "genus:Pseudis specificepithet:paradoxa" ; Times: 5
+	Query: "Hypsiboas albomarginatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1284 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scinax duartei" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+
+
+End of report.
