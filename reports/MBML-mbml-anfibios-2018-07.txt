@@ -1,0 +1,94 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 854
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 6
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-31 ; Times: 11
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Odontophrynus specificepithet:cultripes" ; Times: 1
+	Query: "Hypsiboas lundii" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "institutioncode:MBML" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystacinus" ; Times: 1
+	Query: "Scinax x-signatus" ; Times: 2
+	Query: "Pristimantis fenestratus" ; Times: 1
+	Query: "specificepithet:goeldii genus:fritziana" ; Times: 2
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "Hypsiboas semilineatus" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 1
+	Query: "Dendropsophus berthalutzae" ; Times: 1
+	Query: "genus:Caecilia " ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+	Query: "Leptodactylus latrans" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:troglodytes" ; Times: 1
+	Query: "pristimantis fenestratus" ; Times: 1
+	Query: "proceratophrys" ; Times: 3
+	Query: "Hypsiboas pardalis" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "genus:Crossodactylus specificepithet:timbuhy" ; Times: 1
+	Query: "specificepithet:goeldii genus:flectonotus" ; Times: 3
+	Query: "genus:Pleurodema specificepithet:diplolister" ; Times: 2
+	Query: "genus:Dendropsophus specificepithet:elegans" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 977 download events in this period)
+Total number of records downloaded: 1141
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 3
+	Country: Colombia ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-31 ; Times: 15
+	Date: 2018-07-20 ; Times: 2
+	Date: 2018-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendropsophus triangulum" ; Times: 1
+	Query: "Scinax x-signatus" ; Times: 1
+	Query: "Hypsiboas lundii" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Leptodactylus latrans" ; Times: 1
+	Query: "Hypsiboas pardalis" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella" ; Times: 1
+	Query: "specificepithet:margaritifera genus:Rhinella" ; Times: 1
+	Query: "Hypsiboas semilineatus" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 2
+	Query: "Leptodactylus melanonotus" ; Times: 1
+
+
+End of report.
