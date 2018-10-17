@@ -1,0 +1,89 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 1489
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 19
+	Country: Argentina ; Times: 6
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-02 ; Times: 5
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-08 ; Times: 12
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-28 ; Times: 4
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-13 ; Times: 4
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Scinax fuscovarius mappable:1" ; Times: 1
+	Query: "genus:Rhinella specificepithet:schneideri" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:cristiceps" ; Times: 1
+	Query: "proceratophrys" ; Times: 5
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 4
+	Query: "Physalaemus cuvieri mappable:1" ; Times: 1
+	Query: "bodoquena" ; Times: 3
+	Query: "genus:Corythomantis specificepithet:greeningi" ; Times: 1
+	Query: "Physalaemus erikae" ; Times: 1
+	Query: "hylodes phyllodes" ; Times: 1
+	Query: "Leptodactylus mystaceus mappable:1" ; Times: 1
+	Query: "Macrogenioglottus" ; Times: 1
+	Query: "Dendropsophus minutus mappable:1" ; Times: 1
+	Query: "crossodactylus timbuhy" ; Times: 7
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 2
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "genus:Eupemphix specificepithet:nattereri" ; Times: 1
+	Query: "Leptodactylus fuscus mappable:1" ; Times: 1
+	Query: "Dendropsophus nanus mappable:1" ; Times: 1
+	Query: "genus:Bokermannohyla specificepithet:circumdata" ; Times: 1
+	Query: "Crossodactylus timbuhy" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1416 download events in this period)
+Total number of records downloaded: 345
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "proceratophrys" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:andreae genus:Adenomera" ; Times: 1
+	Query: "Macrogenioglottus" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Dendropsophus" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+
+
+End of report.
