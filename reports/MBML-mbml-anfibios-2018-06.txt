@@ -1,0 +1,106 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 165
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 72
+	Country: United States ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-21 ; Times: 4
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 8
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-19 ; Times: 45
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-20 ; Times: 8
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 2
+	Query: "genus:Dermatonotus specificepithet:muelleri" ; Times: 1
+	Query: "catalognumber:7055 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:469 institutioncode:MBML" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:maculiventris" ; Times: 3
+	Query: "catalognumber:7343 institutioncode:MBML" ; Times: 2
+	Query: "genus:Macrogenioglottus specificepithet:alipioi" ; Times: 1
+	Query: "catalognumber:7053 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7315 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:6689 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7492 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:1619 institutioncode:MBML" ; Times: 1
+	Query: "Rhinella ceratophrys" ; Times: 2
+	Query: "catalognumber:7602 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2680 institutioncode:MBML" ; Times: 1
+	Query: "Bokermannohyla circumdata" ; Times: 1
+	Query: "catalognumber:7501 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7477 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:6908 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:6933 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2580 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:1916 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7344 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:6825 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:3245 institutioncode:MBML" ; Times: 2
+	Query: "Scinax catharinae" ; Times: 1
+	Query: "catalognumber:7508 institutioncode:MBML" ; Times: 2
+	Query: "Hylodes phyllodes" ; Times: 1
+	Query: "catalognumber:375 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:7132 institutioncode:MBML" ; Times: 1
+	Query: "genus:Eupemphix specificepithet:nattereri" ; Times: 2
+	Query: "catalognumber:2777 institutioncode:MBML" ; Times: 1
+	Query: "genus:Phasmahyla specificepithet:exilis" ; Times: 1
+	Query: "catalognumber:7596 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:7534 institutioncode:MBML" ; Times: 2
+	Query: "Melanophryniscus moreirae" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "catalognumber:7662 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7630 institutioncode:MBML" ; Times: 2
+	Query: "Amazophrynella manaos" ; Times: 1
+	Query: "Adelophryne glandulata" ; Times: 2
+	Query: "catalognumber:7504 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:6910 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2094 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:1866 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2120 institutioncode:MBML" ; Times: 2
+	Query: "genus:Pleurodema specificepithet:diplolister" ; Times: 1
+	Query: "catalognumber:7178 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7058 institutioncode:MBML" ; Times: 2
+	Query: "Rhinella ceratophRys" ; Times: 2
+	Query: "Gastrotheca megacephala" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1169 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bokermannohyla circumdata" ; Times: 1
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 3
+
+
+End of report.
