@@ -1,0 +1,89 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 716
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 7
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-14 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-09 ; Times: 7
+	Date: 2018-10-18 ; Times: 5
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 3
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "Hylodes lateristrigatus Santa Teresa" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "catalognumber:820 institutioncode:MBML" ; Times: 1
+	Query: "Scinax alter" ; Times: 3
+	Query: "UFES" ; Times: 1
+	Query: "Crossodactylus timbuhy" ; Times: 1
+	Query: "Rhinella ceratophrys" ; Times: 2
+	Query: "Scinax x-signatus" ; Times: 1
+	Query: "Crossodactylus dispar" ; Times: 1
+	Query: "specificepithet:boiei genus:Proceratophrys" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 6
+	Query: "Baixo Guandu ES" ; Times: 1
+	Query: "genus:Itapotihyla specificepithet:langsdorffii" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:nigromaculatus" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:anceps" ; Times: 1
+	Query: "Hylodes lateristrigatus" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "genus:Rhinella specificepithet:schneideri" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:furnarius" ; Times: 1
+	Query: "specificepithet:boiei genus:Proceratophrys year &gt;= 1990" ; Times: 1
+	Query: "Adelophryne glandulata" ; Times: 1
+	Query: "Linhares ES" ; Times: 1
+	Query: "melanophryniscus moreirae" ; Times: 7
+	Query: "genus:Phyllomedusa specificepithet:nordestina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1300 download events in this period)
+Total number of records downloaded: 1010
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hylodes lateristrigatus Santa Teresa" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+
+
+End of report.
