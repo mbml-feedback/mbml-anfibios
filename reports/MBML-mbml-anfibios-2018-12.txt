@@ -1,0 +1,57 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 4106
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-03 ; Times: 5
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-17 ; Times: 5
+	Date: 2018-12-11 ; Times: 7
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Megaelosia year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Zachaenus specificepithet:carvalhoi" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 12
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "Itapotihyla langsdorffii" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Crossodactylus year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Proceratophrys boiei mappable:1" ; Times: 1
+	Query: "Macrogenioglottus alipioi mappable:1" ; Times: 1
+	Query: "Thoropa year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Myersiella microps mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 809 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+
+
+End of report.
