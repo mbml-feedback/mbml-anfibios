@@ -1,0 +1,101 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 8250
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Brazil ; Times: 26
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-25 ; Times: 4
+	Date: 2019-06-26 ; Times: 14
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-28 ; Times: 4
+	Date: 2019-06-14 ; Times: 2
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 28
+	Date: 2019-06-10 ; Times: 15
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chiasmocleis specificepithet:capixaba" ; Times: 3
+	Query: "genus:Haddadus specificepithet:binotatus" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:ephippium" ; Times: 2
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "genus:Macrogenioglottus specificepithet:alipioi" ; Times: 1
+	Query: "genus:Rhinella specificepithet:crucifer" ; Times: 1
+	Query: "genus:Flectonotus specificepithet:fissilis" ; Times: 1
+	Query: "genus:Rhinella specificepithet:icterica" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:perviridis" ; Times: 1
+	Query: "genus:Pseudopaludicola specificepithet:falcipes" ; Times: 1
+	Query: "genus:Aparasphenodon specificepithet:brunoi" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 2
+	Query: "genus:Crossodactylus specificepithet:gaudichaudii" ; Times: 1
+	Query: "catalognumber:8961" ; Times: 3
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 2
+	Query: "genus:Bokermannohyla specificepithet:circumdata" ; Times: 1
+	Query: "Hypsiboas albopunctatus mappable:1" ; Times: 1
+	Query: "Brachycephalus ephippium" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:fuscus" ; Times: 1
+	Query: "genus:Ischnocnema specificepithet:parva" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 18
+	Query: "genus:Itapotihyla specificepithet:langsdorffii" ; Times: 1
+	Query: "genus:Corythomantis specificepithet:greeningi" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 3
+	Query: "genus:Crossodactylodes" ; Times: 1
+	Query: "genus:Rhinella specificepithet:granulosa" ; Times: 1
+	Query: "genus:Rhinella specificepithet:schneideri" ; Times: 1
+	Query: "specificepithet:fuscus genus:Leptodactylus mappable:1" ; Times: 1
+	Query: "specificepithet:minutus genus:Dendropsophus mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "genus:Ischnocnema specificepithet:guentheri" ; Times: 1
+	Query: "genus:Scinax specificepithet:alter" ; Times: 2
+	Query: "specificepithet:x-signatus genus:Scinax mappable:1" ; Times: 2
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "genus:Thoropa specificepithet:miliaris" ; Times: 1
+	Query: "Hypsiboas faber mappable:1" ; Times: 2
+	Query: "genus:Scinax specificepithet:x-signatus" ; Times: 2
+	Query: "genus:Pseudis specificepithet:paradoxa" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 1
+	Query: "albopunctata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1182 download events in this period)
+Total number of records downloaded: 349
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "jaguar" ; Times: 2
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "phyllomedusa" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 1
+	Query: "genus:Pleurodema" ; Times: 1
+
+
+End of report.
