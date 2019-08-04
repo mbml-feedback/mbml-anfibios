@@ -1,0 +1,96 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 11295
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 75
+	Country: United States ; Times: 5
+	Country: Paraguay ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 4
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 6
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-22 ; Times: 28
+	Date: 2019-07-27 ; Times: 3
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinella icterica mappable:1" ; Times: 6
+	Query: "genus:Chiasmocleis specificepithet:capixaba" ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "Hypsiboas bischoffi mappable:1" ; Times: 1
+	Query: "taquara" ; Times: 1
+	Query: "Hypsiboas albopunctatus mappable:1" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 1
+	Query: "Lama" ; Times: 1
+	Query: "Dendropsophus minutus mappable:1" ; Times: 1
+	Query: "bananal" ; Times: 2
+	Query: "Rhinella jimi" ; Times: 1
+	Query: "Scinax fuscovarius mappable:1" ; Times: 2
+	Query: "Allobates olfersioides mappable:1" ; Times: 2
+	Query: "Odontophrynus cultripes" ; Times: 1
+	Query: "Macrogenioglottus alipioi mappable:1" ; Times: 1
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 1
+	Query: "Leptodactylus latrans" ; Times: 1
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "Aplastodiscus perviridis mappable:1" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 31
+	Query: "hypsiboas lundii mappable:1" ; Times: 1
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "genus:Crossodactylodes" ; Times: 1
+	Query: "Bothrops jararaca mappable:1" ; Times: 4
+	Query: "Physalaemus signifer mappable:1" ; Times: 1
+	Query: "Physalaemus centralis" ; Times: 2
+	Query: "Trachycephalus mesophaeus" ; Times: 4
+	Query: "Aparasphenodon brunoi mappable:1" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "specificepithet:x-signatus genus:Scinax mappable:1" ; Times: 1
+	Query: "Rhinella schneideri mappable:1" ; Times: 2
+	Query: "Thoropa megatympanum" ; Times: 2
+	Query: "Hypsiboas faber mappable:1" ; Times: 3
+	Query: "bromelia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 985 download events in this period)
+Total number of records downloaded: 301
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Leptodactylus latrans" ; Times: 1
+
+
+End of report.
