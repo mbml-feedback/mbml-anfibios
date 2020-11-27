@@ -1,0 +1,79 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 555
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Netherlands ; Times: 1
+	Country: Cuba ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 11
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-29 ; Times: 3
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Leptodactylus specificepithet:spixi" ; Times: 1
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "Odontophrynus cultripes" ; Times: 2
+	Query: "Leptodactylus spixi" ; Times: 10
+	Query: "Rhinella hoogmoedi" ; Times: 1
+	Query: "genus:Haddadus specificepithet:binotatus" ; Times: 1
+	Query: "Trachycephalus mesophaeus" ; Times: 1
+	Query: "genus:Rhinella specificepithet:hoogmoedi" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "genus:Scinax specificepithet:alter" ; Times: 1
+	Query: "genus:Rhinella specificepithet:crucifer" ; Times: 1
+	Query: "genus:Eupemphix specificepithet:nattereri" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:decipiens" ; Times: 1
+	Query: "Trachycephalus atlas" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 1
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 853 download events in this period)
+Total number of records downloaded: 239
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Cuba ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-02 ; Times: 5
+	Date: 2020-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinella hoogmoedi" ; Times: 1
+	Query: "Trachycephalus mesophaeus" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "Trachycephalus atlas" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+
+
+End of report.
