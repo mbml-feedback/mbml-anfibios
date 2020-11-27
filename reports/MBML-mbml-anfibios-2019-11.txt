@@ -1,0 +1,84 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 2371
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 30
+	Country: Argentina ; Times: 2
+	Country: Canada ; Times: 6
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 11
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-25 ; Times: 7
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rhinella specificepithet:pombali" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:berthalutzae" ; Times: 1
+	Query: "genus:Scinax specificepithet:perpusillus" ; Times: 2
+	Query: "Ischnocnema holti" ; Times: 11
+	Query: "civit" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:latrans" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "Aplastodiscus cavicola" ; Times: 2
+	Query: "Itapotihyla langsdorffii" ; Times: 2
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 5
+	Query: "Dendropsophus berthalutzae" ; Times: 1
+	Query: "Physalaemus marmoratus mappable:1" ; Times: 1
+	Query: "Rhinella granulosa" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 6
+	Query: "Physalaemus nattereri mappable:1" ; Times: 1
+	Query: "rhinella jimi" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "Scinax rizibilis" ; Times: 2
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Leptodactylus macrosternum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1367 download events in this period)
+Total number of records downloaded: 89
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "rhinella jimi" ; Times: 1
+	Query: "LEPTODACTYLUS MYSTACEUS" ; Times: 1
+	Query: "Scinax rizibilis" ; Times: 2
+
+
+End of report.
