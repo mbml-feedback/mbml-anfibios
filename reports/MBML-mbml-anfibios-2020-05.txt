@@ -1,0 +1,49 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 475
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Poços de Caldas" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 5
+	Query: "class:Amphibia stateprovince:&#34;Mato Grosso do Sul&#34; country:&#34;Brasil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1106 download events in this period)
+Total number of records downloaded: 74
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gymnophiona" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Mato Grosso do Sul&#34; country:&#34;Brasil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Rio Grande do Sul&#34; country:&#34;Brasil&#34;" ; Times: 1
+
+
+End of report.
