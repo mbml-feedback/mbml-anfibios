@@ -1,0 +1,84 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 1172
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 20
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-18 ; Times: 3
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Dendropsophus specificepithet:microps" ; Times: 1
+	Query: "genus:Fritziana specificepithet:fissilis" ; Times: 1
+	Query: "genus:Dermatonotus specificepithet:muelleri" ; Times: 1
+	Query: "specificepithet:moreirae genus:Melanophryniscus" ; Times: 2
+	Query: "genus:Pseudis specificepithet:bolbodactyla" ; Times: 1
+	Query: "flectonotus" ; Times: 1
+	Query: "specificepithet:hoogmoedi genus:Rhinella" ; Times: 2
+	Query: "specificepithet:jimi genus:Rhinella" ; Times: 2
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "specificepithet:manaos genus:Amazophrynella" ; Times: 2
+	Query: "Scinax auratus" ; Times: 1
+	Query: "specificepithet:carvalhoi genus:Dendrophryniscus" ; Times: 2
+	Query: "Rhinella crucifer" ; Times: 1
+	Query: "Phyllomedusa nordestina" ; Times: 1
+	Query: "specificepithet:granulosa genus:Rhinella" ; Times: 2
+	Query: "genus:Ischnocnema specificepithet:nasuta" ; Times: 1
+	Query: "specificepithet:schneideri genus:Rhinella" ; Times: 2
+	Query: "genus:Itapotihyla specificepithet:langsdorffii" ; Times: 1
+	Query: "genus:Pipa specificepithet:carvalhoi" ; Times: 2
+	Query: "itapotihyla langsdorffii" ; Times: 2
+	Query: "Dendropsophus bipunctatus" ; Times: 1
+	Query: "specificepithet:pombali genus:Rhinella" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:furnarius" ; Times: 1
+	Query: "Dendropsophus anceps" ; Times: 1
+	Query: "genus:Flectonotus specificepithet:fissilis" ; Times: 1
+	Query: "Proceratophrys boiei" ; Times: 1
+	Query: "specificepithet:crucifer genus:Rhinella" ; Times: 2
+	Query: "specificepithet:icterica genus:Rhinella" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 596 download events in this period)
+Total number of records downloaded: 73
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "itapotihyla langsdorffii" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+
+
+End of report.
