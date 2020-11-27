@@ -1,0 +1,93 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 3941
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 8
+	Country: Argentina ; Times: 5
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 9
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-31 ; Times: 5
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-28 ; Times: 5
+	Date: 2019-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Leptodactylus specificepithet:vastus" ; Times: 3
+	Query: "genus:Scinax specificepithet:perpusillus" ; Times: 3
+	Query: "genus:Rhinella specificepithet:crucifer" ; Times: 2
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "genus:Cycloramphus specificepithet:juimirim" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:mesophaeus" ; Times: 1
+	Query: "Phyllomedusa burmeisteri" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "Dasypops schirchi" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:schirchi" ; Times: 1
+	Query: "Chiasmocleis schubarti" ; Times: 2
+	Query: "genus:Scinax specificepithet:similis" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 10
+	Query: "Chiasmocleis bloqueado" ; Times: 3
+	Query: "heyeri" ; Times: 1
+	Query: "Chiasmocleis lacrimae" ; Times: 6
+	Query: "euparkerella" ; Times: 1
+	Query: "Ischnocnema guentheri" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "Siphonops hardyi" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:kautskyi" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:elegans" ; Times: 1
+	Query: "phyllomedusa burmeisteri" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1308 download events in this period)
+Total number of records downloaded: 471
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 13
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "Lithobates Catesbeianus" ; Times: 1
+
+
+End of report.
