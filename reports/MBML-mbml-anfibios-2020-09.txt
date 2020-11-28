@@ -1,0 +1,75 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 7674
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Brazil ; Times: 10
+	Country: Argentina ; Times: 22
+	Country: Unknown ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 4
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 37
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-18 ; Times: 33
+	Date: 2020-09-30 ; Times: 20
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Proceratophrys boiei" ; Times: 19
+	Query: "Leptodactylus mystacinus" ; Times: 2
+	Query: "catalognumber:6869 institutioncode:MBML" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus latrans" ; Times: 3
+	Query: "RB-3547" ; Times: 1
+	Query: "mappable:1 scientificname:Myersiella microps" ; Times: 19
+	Query: "genus:Scinax specificepithet:alter" ; Times: 2
+	Query: "botucatu" ; Times: 1
+	Query: "mappable:1 scientificname:Haddadus binotatus" ; Times: 19
+	Query: "Proceratophrys" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "vitreorana" ; Times: 2
+	Query: "Proceratophrys schirchi" ; Times: 1
+	Query: "genus:Scinax specificepithet:eurydice" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:arildae" ; Times: 1
+	Query: "mappable:1 scientificname:Dermatonotus muelleri" ; Times: 3
+	Query: "mappable:1 scientificname:Leptodactylus fuscus" ; Times: 6
+	Query: "mappable:1 scientificname:Leptodactylus mystacinus" ; Times: 2
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "mappable:1 scientificname:Dendropsophus nanus" ; Times: 3
+	Query: "mata atlantica" ; Times: 1
+	Query: "genus:Scinax specificepithet:hayii" ; Times: 1
+	Query: "mappable:1 scientificname:Macrogenioglottus alipioi" ; Times: 19
+	Query: "mappable:1 scientificname:Hypsiboas raniceps" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 976 download events in this period)
+Total number of records downloaded: 979
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+
+
+End of report.
