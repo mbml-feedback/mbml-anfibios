@@ -1,0 +1,55 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 537
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:parva genus:Ischnocnema class:amphibia" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bahiana" ; Times: 1
+	Query: "mappable:1 scientificname:Haddadus binotatus" ; Times: 1
+	Query: "HYPSIBOAS faber" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:haddadi" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 2
+	Query: "Sphaenorhynchus planicola" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 756 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+
+
+End of report.
