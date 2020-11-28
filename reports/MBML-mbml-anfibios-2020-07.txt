@@ -1,0 +1,74 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 1014
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bahia Brasil" ; Times: 3
+	Query: "Jaguar" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:natalensis" ; Times: 1
+	Query: "genus:Fritziana specificepithet:fissilis" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:cuvieri" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Myersiella microps mappable:1" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "Proceratophrys boiei mappable:1" ; Times: 2
+	Query: "Macrogenioglottus alipioi mappable:1" ; Times: 2
+	Query: "Lagoa Juparaña" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:nordestina" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 940 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinella marina" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+
+
+End of report.
