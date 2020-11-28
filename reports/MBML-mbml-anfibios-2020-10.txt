@@ -1,0 +1,92 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 39389
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 120
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 16
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 9
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 4
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-02 ; Times: 16
+	Date: 2020-10-30 ; Times: 3
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-07 ; Times: 98
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-20 ; Times: 12
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Proceratophrys boiei" ; Times: 4
+	Query: "Scinax similis" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 4
+	Query: "mappable:1 scientificname:Macrogenioglottus alipioi" ; Times: 4
+	Query: "Siphonops paulensis" ; Times: 1
+	Query: "Dermatonotus muelleri" ; Times: 1
+	Query: "mappable:1 scientificname:Haddadus binotatus" ; Times: 122
+	Query: "vitreorana" ; Times: 2
+	Query: "Itapotihyla langsdorffii" ; Times: 2
+	Query: "Rhinella crucifer" ; Times: 2
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 1
+	Query: "MBML 1230" ; Times: 1
+	Query: "Physalaemus nattereri" ; Times: 1
+	Query: "genus:Fritziana specificepithet:goeldii" ; Times: 1
+	Query: "genus:Aplastodiscus" ; Times: 1
+	Query: "Scinax belloni" ; Times: 1
+	Query: "country:&#34;Brasil&#34;" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "Physalaemus centralis" ; Times: 3
+	Query: "genus:Scinax specificepithet:belloni" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "genus:Phasmahyla" ; Times: 1
+	Query: "mappable:1 scientificname:Myersiella microps" ; Times: 4
+	Query: "Physalaemus marmoratus" ; Times: 1
+	Query: "Physalaemus cicada" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1521 download events in this period)
+Total number of records downloaded: 157
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "aves brasil" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "Adenomera" ; Times: 1
+	Query: "vitreorana" ; Times: 1
+	Query: "genus:Phasmahyla" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "genus:Aplastodiscus" ; Times: 1
+
+
+End of report.
