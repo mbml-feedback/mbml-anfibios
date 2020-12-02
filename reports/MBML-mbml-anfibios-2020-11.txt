@@ -1,0 +1,77 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 592
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-19 ; Times: 3
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllodytes" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 1
+	Query: "Adelophryne glandulata" ; Times: 1
+	Query: "Trachycephalus mesophaeus" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:natalensis" ; Times: 4
+	Query: "genus:Scinax specificepithet:eurydice" ; Times: 1
+	Query: "genus:Scinax specificepithet:hayii" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "hypsiboas albopunctatus" ; Times: 1
+	Query: "genus:Rhinella specificepithet:crucifer" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "genus:Rhinella specificepithet:schneideri" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:aguirrei" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 842 download events in this period)
+Total number of records downloaded: 282
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllodytes" ; Times: 2
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "cope" ; Times: 1
+
+
+End of report.
