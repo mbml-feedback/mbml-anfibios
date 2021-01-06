@@ -1,0 +1,73 @@
+Report for Institution Code MBML, Resource mbml-anfibios
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 407
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United Kingdom ; Times: 13
+	Country: United States ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 10
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "hypsiboas pulchellus" ; Times: 1
+	Query: "Rhinella granulosa" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bahiana" ; Times: 2
+	Query: "ceratophrys 3801" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:vastus" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "Proceratophrys renalis" ; Times: 2
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "Phyllomedusa nordestina" ; Times: 1
+	Query: "Sphaenorhynchus botocudo" ; Times: 1
+	Query: "Hyalinobatrachium eurygnathum" ; Times: 1
+	Query: "Scinax berthae" ; Times: 1
+	Query: "Leptodactylus mystacinus" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "Physalaemus erikae" ; Times: 1
+	Query: "Physalaemus spiniger" ; Times: 1
+	Query: "Rhinella icterica" ; Times: 3
+	Query: "Rhinella crucifer" ; Times: 1
+	Query: "Vitreorana uranoscopa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 705 download events in this period)
+Total number of records downloaded: 294
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "hypsiboas pulchellus" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+
+
+End of report.
